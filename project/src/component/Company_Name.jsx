@@ -19,7 +19,7 @@ function Company_Name() {
                 <div className="relative z-10 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full flex justify-start">
                     <div className="w-full md:w-1/2 lg:w-2/5 text-right">
                         {/* Company Name */}
-                        <h1 className="mt-5 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6">
+                        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6">
                             ⚡ENERGY ENNOVATIONS
                         </h1>
 
